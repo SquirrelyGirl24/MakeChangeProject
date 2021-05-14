@@ -1,6 +1,6 @@
 # MakeChangeProject
 
-###Overview
+### Overview
 
 This program simulates a cash register and provides changeto customers
 in the appropriate currency.
